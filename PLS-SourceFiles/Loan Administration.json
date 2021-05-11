@@ -1,0 +1,27 @@
+[
+    {
+        "ISBN": 9789027400001,
+        "BOOKNAME": "Fairy tales",
+        "AUTHOR": "Hans Christian Andersen",
+        "LOANEDTO": [
+            "Reech1950"
+        ]
+    },
+    {
+        "ISBN": 9789027400002,
+        "BOOKNAME": "The Divine Comedy",
+        "AUTHOR": "Dante Alighieri",
+        "LOANEDTO": [
+            "Arge1936",
+            "Wortuld"
+        ]
+    },
+    {
+        "ISBN": 9789027400004,
+        "BOOKNAME": "The Book Of Job",
+        "AUTHOR": "Unknown",
+        "LOANEDTO": [
+            "Lishat"
+        ]
+    }
+]
